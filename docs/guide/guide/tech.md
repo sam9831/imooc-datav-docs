@@ -4,7 +4,7 @@
 
 前端数据可视化解决方案如下：
 
-![可视化解决方案](https://www.youbaobao.xyz/datav-res/datav/datav-tech-arch.png)
+![可视化解决方案](https://book.youbaobao.xyz/datav-res/datav/datav-tech-arch.png)
 
 ## Skia
 

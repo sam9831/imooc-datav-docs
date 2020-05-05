@@ -47,9 +47,11 @@ module.exports = {
             'guide/zrender',
             'guide/d3',
             'guide/three',
+            'guide/highcharts',
             'guide/antv',
             'guide/echarts',
             'guide/echarts-basic',
+            'guide/compare',
           ]
         },
         {
