@@ -12,7 +12,6 @@ Highcharts 和 ECharts 的争论非常多，整体来说，我个人的感受是
 
 ## ECharts VS AntV
 
-- 如果需要处理矢量图，推荐 AntV
 - AntV 文档阅读体验更符合互联网产品使用习惯
 - AntV 产品体系拆分更加清晰，但一定程度上提升了学习成本
 - ECharts 社区更强大

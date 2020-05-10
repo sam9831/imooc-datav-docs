@@ -125,7 +125,7 @@ AntV 包括以下解决方案：
             label: '起始点', // 节点文本
             size: 60, // 元素的尺寸
             labelCfg: {           // 标签配置属性
-              positions: 'center',// 标签的属性，标签在元素中的位置
+              position: 'center',// 标签的属性，标签在元素中的位置
               style: {            // 包裹标签样式属性的字段 style 与标签其他属性在数据结构上并行
                 fontSize: 12,     // 标签的文字大小
                 fill: '#ffffff',  // 标签的文字颜色
@@ -144,7 +144,7 @@ AntV 包括以下解决方案：
             label: '目标点1', // 节点文本
             size: 80, // 元素的尺寸
             labelCfg: {           // 标签配置属性
-              positions: 'center',// 标签的属性，标签在元素中的位置
+              position: 'center',// 标签的属性，标签在元素中的位置
               style: {            // 包裹标签样式属性的字段 style 与标签其他属性在数据结构上并行
                 fontSize: 12,     // 标签的文字大小
                 fill: '#ffffff',  // 标签的文字颜色
@@ -163,7 +163,7 @@ AntV 包括以下解决方案：
             label: '目标点2', // 节点文本
             size: 100, // 元素的尺寸
             labelCfg: {           // 标签配置属性
-              positions: 'center',// 标签的属性，标签在元素中的位置
+              position: 'center',// 标签的属性，标签在元素中的位置
               style: {            // 包裹标签样式属性的字段 style 与标签其他属性在数据结构上并行
                 fontSize: 12,     // 标签的文字大小
                 fill: '#ffffff',  // 标签的文字颜色

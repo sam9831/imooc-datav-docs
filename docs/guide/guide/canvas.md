@@ -83,7 +83,7 @@ canvas 是 HTML5 的新特性，它允许我们使用 canvas 元素在网页上�
   <head>
   </head>
   <body>
-    请上传图片：<input type="file" id="upload">
+    <input type="file" id="upload">
     <script>
       const ACCEPT = ['image/jpg', 'image/png', 'image/jpeg']; // 限定图片文件类型
       const MAXSIZE = 1024 * 1024 * 3; // 限定图片最大容量
