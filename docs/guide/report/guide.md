@@ -24,6 +24,13 @@
 - API 联调
 - 功能测试
 
+## 发布上线
+
+- 域名租赁
+- 服务器租赁
+- Nginx 服务部署
+- 自动化部署脚本
+
 ## 集成 vue-element-admin
 
 - vue-element-admin 初始化
